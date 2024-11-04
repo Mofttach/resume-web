@@ -79,3 +79,4 @@ st.write("""
 - **Technologies**: Machine Learning, IoT, Data Analysis, Streamlit, Neo4j
 - **Soft Skills**: Leadership, Event Management, Public Speaking, Team Collaboration
 """)
+#
